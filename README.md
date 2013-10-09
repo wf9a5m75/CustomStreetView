@@ -4,7 +4,7 @@ CustomStreetView
 Example of custom street view with Google Maps API v3 
 
 ## Demo
-https://github.com/wf9a5m75/CustomStreetView/raw/ardenwood_historic_farm.html
+http://googlemaps.googlermania.com/google_maps_api_v3/en/custom_streetview/ardenwood_historic_farm.html
 ![image1](https://github.com/wf9a5m75/CustomStreetView/raw/master/demo.png)
 
 ## Description
