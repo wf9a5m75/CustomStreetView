@@ -1,0 +1,21 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin:0;
+}
+#frame, #streetview_canvas, #map_canvas {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+#map_frame {
+  width: 30%;
+  height: 99%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+  padding: 2px;
+  border: 1px solid gray;
+  background-color: white;
+}
